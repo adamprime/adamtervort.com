@@ -1,7 +1,9 @@
 ---
-title: "Posts"
+title: "blog"
 date: 2018-02-13T12:21:57-05:00
 
 ---
 
-Welcome to the blog section! This page uses the default `list.html` template. Write anything you like here. You can set this text with your `_index.md` in the `/content/posts/` folder.
+My writing is pretty varied, from tech and productivity to family and travel. I enjoy sharing what I learn.
+
+Have thoughts you'd like to share with me? Let me know [on Twitter](https://twitter.com/adamtervort). You can also find me [on Medium](https://medium.com/@invisible_man).
