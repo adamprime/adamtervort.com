@@ -20,3 +20,5 @@ Hello, I'm Adam. I work on the people side of an awesome tech company, SpiderOak
 One of the things I most enjoy is sharing what I know. If there's something I can help you with please let me know! I have a number of courses available on my side project, [Hammock Marketing](https://learn.hammock.marketing).
 
 Want to connect? I'm on [Twitter](https://twitter.com/adamtervort), [Medium](https://medium.com/@invisible_man), and [LinkedIn](https://www.linkedin.com/in/adam-tervort/).
+
+![Adam](/posts/adam_about.jpeg)
