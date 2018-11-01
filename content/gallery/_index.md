@@ -1,5 +1,5 @@
 ---
-title: "Photos in the Key of Life"
+title: "photos in the key of life"
 type: "gallery"
 url: "/gallery"
 ---
