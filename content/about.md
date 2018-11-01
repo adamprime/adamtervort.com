@@ -12,7 +12,6 @@ Hello, I'm Adam. I work on the people side of an awesome tech company, SpiderOak
 - My second "real job" was teaching ESL, both in the US and in Asia
 - Someday I'll grow up and get another "real job", but for now I play with computers all day
 - I can't stand most music with lyrics
-	- Or most music generally
 	- Unless it's jazz
 		- But definitely not smooth jazz
 			- That doesn't even qualify as music
