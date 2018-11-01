@@ -24,12 +24,12 @@
   </url>
   
   <url>
-    <loc>https://adamtervort.com/gallery/</loc>
+    <loc>https://adamtervort.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adamtervort.com/tags/</loc>
-    <priority>0</priority>
+    <loc>https://adamtervort.com/gallery/</loc>
   </url>
   
 </urlset>
