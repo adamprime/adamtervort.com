@@ -4,6 +4,8 @@ date: 2018-11-04
 slug: "mmco"
 ---
 
+![music in a red folder](/posts/mmco.jpg)
+
 Over the past 11 months I have served as the president of the board of a small 501(3)(c) nonprofit in my hometown, the [Many Moods Choir and Orchestra](https://manymoods.xyz). Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn't include all the personal practice time involved. The music we play is hard! I'm currently nursing sore arms, a sure symptom of a string bass player who plays much more vigorously, and less frequently, than he should.)
 
 Let me be clear on one point: the people are great. This is my fifth year participating and the reason I will continue to participate as long as the group is around. It’s inspiring to see the passion and devotion of so many people who, like me, love music but don’t get to play or perform often.
