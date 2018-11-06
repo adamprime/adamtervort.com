@@ -35,3 +35,5 @@ fields:
   name: file_upload
   label: File Upload
   description: For featured image or other file uploads
+pages:
+- content/posts/in-memory-of-roy-hargrove.md
