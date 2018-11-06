@@ -1,0 +1,37 @@
+---
+label: Post-SEO
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Post or Page Title
+  config:
+    required: true
+- type: datetime
+  label: Publish Date
+  name: date
+  description: Original publication date
+  config:
+    required: true
+- type: textarea
+  label: Description
+  name: description
+  description: SEO description of the post or page
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: Tags
+- type: number
+  name: weight
+  label: Weight
+  description: lower values = higher display value
+  config:
+    min: '1'
+    step: "-8"
+- type: file
+  name: file_upload
+  label: File Upload
+  description: For featured image or other file uploads
