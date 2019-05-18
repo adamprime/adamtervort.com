@@ -1,6 +1,4 @@
-[submodule "themes/sam"]
-	path = themes/sam
-	url = https://github.com/vickylai/hugo-theme-sam.git
+
 [submodule "themes/introduction"]
 	path = themes/introduction
 	url = https://github.com/vickylai/hugo-theme-introduction.git

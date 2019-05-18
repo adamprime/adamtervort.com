@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "Adam Tervort"
 date: 2018-10-31
 ---
 
@@ -18,4 +18,4 @@ One of the things I most enjoy is sharing what I know. If there's something I ca
 
 Want to connect? I'm on [Twitter](https://twitter.com/adamtervort), [Medium](https://medium.com/@invisible_man), and [LinkedIn](https://www.linkedin.com/in/adam-tervort/).
 
-![Adam](/posts/img/adam_about.jpeg)
+
