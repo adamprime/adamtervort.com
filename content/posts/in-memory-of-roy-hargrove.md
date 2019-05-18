@@ -4,6 +4,7 @@ date = "2018-11-05T19:53:56-06:00"
 description = "Roy Hargrove was a great jazz trumpeter. His music changed my life in many ways."
 tags = ["jazz", "trumpet"]
 weight = ""
+image = "/posts/img/RH.jpg"
 +++
 
 ![Roy Hargove in a slick white suit](/posts/img/RH.jpg)
