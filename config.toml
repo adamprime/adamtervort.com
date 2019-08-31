@@ -1,116 +1,38 @@
 baseurl = "https://adamtervort.com/"
-languageCode = "en-us"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Adam Tervort"
-theme = "personal-web"
-copyright="©2019 Adam Tervort"
-googleAnalytics = ""
-enableEmoji=true
-enableRobotsTXT=true
-pygmentsUseClasses=true
-pygmentsCodeFences=true
+theme = "stip"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
-[params.intro]
-  main = "Hi, I'm Adam :wave:"
-  sub = "I ❤️KC, ⚾️Royals, jazz🎶, hammocks, 中文, 🇹🇼, microgreens 🌱"
-
-#[taxonomies]
-#  design = "designs"
-#  tech = "techs"
-
-[blackfriday]
-  hrefTargetBlank = true
+[Author]
+    name = "Adam Tervort"
+    bio = "Customer Success, Marketing, and Analog Productivity"
+    # bio = "I ❤️KC, ⚾️Royals, jazz🎶, hammocks, 中文, 🇹🇼, microgreens 🌱"
 
 [params]
-  breadcrumb = true
-  accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
-[params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
-  h1 = 'Bummer!'
-  p = "It seems that this page doesn't exist."
+    [[params.links]]
+        iconset = "fas"
+        icon = "rss"
+        title = "Read more on Hammock Marketing, my blog 📝"
+        url = "https://hammock.marketing"      
+    
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "Prefer email? I can do that 📨"
+        url = "mailto:adam@adamtervort.com"
+ 
+    [[params.links]]
+        icon = "twitter"
+        title = "Connect with me on Twitter 🐦"
+        url = "https://twitter.com/adamtervort/"
 
-[params.sections]
-  # Define how your sections will be called
-  # when automatically pulled. For instance in the 404 page
-  post = "blog"
-#  portfolio = "project"
-
-[params.sidebar]
-  backgroundImage = '/img/new-sidebar.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = 'rgba(0,0,0,0.5),rgba(0,0,0,0.5)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/img/adam_t.jpg" # - default "/images/edna-west.jpg"
-[params.assets]
-  favicon = "/favicon.png"
-  customCSS = ""
-
-[params.social]
-  twitter = "https://twitter.com/adamtervort"
-  linkedin = "https://www.linkedin.com/in/adam-tervort"
-  github = "https://github.com/adamprime"
-
-[params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+    [[params.links]]
+        icon = "github"
+        title = "Projects on Github 🐙"
+        url = "https://github.com/adamprime"
 
 
-[menu]
-
-#[[menu.main]]
-#  identifier = "about"
-#  name = "About"
-#  title = "About section"
-#  url = "/about/"
-#  weight = -120
-
-[[menu.main]]
-  identifier = "portfolio"
-  name = "Gallery"
-  title = "Gallery"
-  url = "/gallery/"
-  weight = -110
-
-[[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  title = "Blog section"
-  url = "/posts/"
-  weight = -100
-
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
-    useSessionStorage = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-    simple = false
-
-#clickablePhotos = false
-#dateform = "Mon Jan 02, 2006"
-#dateformfull = "Mon Jan 2 2006 15:04:05 EST"
-#description = "Adam Tervort's personal site"
-#favicon = "sam.ico"
-#footerText = "Created with [Hugo](https://gohugo.io) | CC (Share Alike) 2018"
-galleryFolder = "images/"
-#homepage = "main"
-#primaryImage = "static/tn.png"
-#smallImagesSubfolder = "small/"
-#smallPreviewImages = true
-#twitterCard = "summary_large_image"
-#[[params.mainMenu]]
-#link = "/about"
-#text = "who is adam?"
-#[[params.mainMenu]]
-#link = "/posts"
-#text = "blog"
-#[[params.mainMenu]]
-#link = "/gallery"
-#text = "gallery"
+      

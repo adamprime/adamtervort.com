@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trumpet on Adam Tervort</title>
+    <title>trumpet on Adam Tervort</title>
     <link>https://adamtervort.com/tags/trumpet/</link>
-    <description>Recent content in Trumpet on Adam Tervort</description>
+    <description>Recent content in trumpet on Adam Tervort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>©2019 Adam Tervort</copyright>
     <lastBuildDate>Mon, 05 Nov 2018 19:53:56 -0600</lastBuildDate>
     
 	<atom:link href="https://adamtervort.com/tags/trumpet/index.xml" rel="self" type="application/rss+xml" />

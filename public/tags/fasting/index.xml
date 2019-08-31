@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fasting on Adam Tervort</title>
+    <title>fasting on Adam Tervort</title>
     <link>https://adamtervort.com/tags/fasting/</link>
-    <description>Recent content in Fasting on Adam Tervort</description>
+    <description>Recent content in fasting on Adam Tervort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>©2019 Adam Tervort</copyright>
     <lastBuildDate>Sat, 12 Jan 2019 09:44:26 -0600</lastBuildDate>
     
 	<atom:link href="https://adamtervort.com/tags/fasting/index.xml" rel="self" type="application/rss+xml" />
