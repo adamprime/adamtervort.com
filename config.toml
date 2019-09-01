@@ -2,6 +2,7 @@ baseurl = "https://adamtervort.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Adam Tervort"
+subtitle = "I work on the people side of an awesome tech company. I ❤️KC, ⚾️Royals, jazz🎶, hammocks, 中文, 🇹🇼, microgreens 🌱."
 theme = "stip"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
