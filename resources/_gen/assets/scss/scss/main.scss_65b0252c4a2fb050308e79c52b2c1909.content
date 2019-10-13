@@ -203,8 +203,8 @@ h5 {
 
 img {
   max-width: 100%;
-  height: auto;
   vertical-align: middle;
+  height: auto;
   margin: 15px auto;
   padding: 0;
 }
@@ -215,13 +215,9 @@ main {
 }
 
 ul {
-  list-style: disc;
-  list-style-position: outside;
-  margin: 10px;
-  padding: 20px;
-  margin-left: 35px;
-  -webkit-padding-start: 10;
-  -moz-padding-start: 10;
+  list-style: none;
+  -webkit-padding-start: 0;
+  -moz-padding-start: 0;
 }
 
 b, strong, em {
