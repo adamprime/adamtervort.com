@@ -2,12 +2,11 @@
 title = "In Memory of Roy Hargrove"
 date = "2018-11-05T19:53:56-06:00"
 description = "Roy Hargrove was a great jazz trumpeter. His music changed my life in many ways."
+categories = ["music"]
 tags = ["jazz", "trumpet"]
 weight = ""
-image = "/posts/img/RH.jpg"
+image = "rh.jpg"
 +++
-
-![Roy Hargove in a slick white suit](/posts/img/RH.jpg)
 
 As a gawky high school freshman I was invited to do something really cool and join the high school jazz band. Our school district put freshmen at the junior high, so it was pretty neat to go to the high school a couple of times a week and play music with the upperclassmen. I was the only bass player in the high school system so it didn’t matter that I wasn’t any good; if they wanted a bass player they were stuck with me.
 
@@ -21,4 +20,4 @@ Years later during a difficult time in my life I discovered the album [Earfood](
 
 [It’s shocking when someone dies so young](https://www.npr.org/2018/11/03/663895387/roy-hargrove-grammy-winning-jazz-trumpeter-dies-at-49). There was so much music left for him to play.
 
-{{< youtube qxeb0cwjE8U >}}
+{{< youtube CQ6dbUmU__o >}}

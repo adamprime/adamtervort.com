@@ -1,39 +1,36 @@
-baseurl = "https://adamtervort.com/"
-languageCode = "en"
-defaultContentLanguage = "en"
+baseurl = "https://adamtervort.com/"  # Include trailing slash
 title = "Adam Tervort"
-subtitle = "I work on the people side of an awesome tech company. I ❤️KC, ⚾️Royals, jazz🎶, hammocks, 中文, 🇹🇼, microgreens 🌱."
-theme = "stip"
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+theme = "newsroom"
+author = "Adam Tervort"
+copyright = "Copyright © 2019, Adam Tervort"
+canonifyurls = true
+paginate = 3
+# Enable syntax highlighting
+# comment or delete the following lines 11 ~ 14
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses=true
+pygmentsOptions = "linenos=table"
 
-[Author]
-    name = "Adam Tervort"
-    bio = "Customer Success, Marketing, and Analog Productivity"
-    # bio = "I ❤️KC, ⚾️Royals, jazz🎶, hammocks, 中文, 🇹🇼, microgreens 🌱"
+# If you want to use disqus, uncomment the line below
+# disqusShortname = "yourdiscussshortname"
 
+# ids used below are not valid. Replace with valid ones
 [params]
-
-    [[params.links]]
-        iconset = "fas"
-        icon = "rss"
-        title = "Read more on Hammock Marketing, my blog 📝"
-        url = "https://hammock.marketing"      
+  ga_analytics = "UA-128042666-5" # google analytics ID e.g UA-116386578-1
+  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
     
-    [[params.links]]
-        iconset = "fas"
-        icon = "envelope"
-        title = "Prefer email? I can do that 📨"
-        url = "mailto:adam@adamtervort.com"
- 
-    [[params.links]]
-        icon = "twitter"
-        title = "Connect with me on Twitter 🐦"
-        url = "https://twitter.com/adamtervort/"
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  
+  twitter = "@adamtervort" # twitter handle e.g @weru
 
-    [[params.links]]
-        icon = "github"
-        title = "Projects on Github 🐙"
-        url = "https://github.com/adamprime"
-
-
-      
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
