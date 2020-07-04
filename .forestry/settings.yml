@@ -6,17 +6,12 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/gallery
-  label: Gallery
+  label: Articles and Pages
   create: all
   match: "**/*"
 - type: directory
-  path: content
-  label: Articles
+  path: content/gallery
+  label: Gallery
   create: all
   match: "**/*"
 upload_dir: static/uploads
