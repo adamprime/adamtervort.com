@@ -5,21 +5,51 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: slug
   label: slug
+  description: This is the relative URL of the article
+- name: draft
+  type: boolean
+  label: Draft
+  default: true
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YYYY/MM/DD
 - type: textarea
   name: description
   label: description
-- type: list
-  name: categories
-  label: categories
+  description: The description of the post. This is important as it will be pulled
+    in by social networks when the post is shared.
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
+  description: The tags can be used by users on the site to search for articles or
+    find related content.
+  config:
+    use_select: false
 - type: file
   name: image
-  label: image
+  label: Featured Image
+  description: This appears in the header behind the title and date. <br>default width
+    is 1280
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: Thumbnail
+  description: This is used on the main page and paginated pages to display next to
+    the article blurb. Should be 500x500 px
+- name: credit
+  type: text
+  config:
+    required: false
+  label: Image credit
+  description: This becomes a clickable URL on the post page, the photo icon. Input
+    a full URL.
