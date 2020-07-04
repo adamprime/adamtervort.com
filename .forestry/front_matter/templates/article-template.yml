@@ -11,29 +11,26 @@ fields:
   name: slug
   label: slug
   description: This is the relative URL of the article
-- name: draft
-  type: boolean
-  label: Draft
-  default: true
 - type: datetime
   name: date
   label: date
   config:
     date_format: YYYY/MM/DD
+- name: draft
+  type: boolean
+  label: Draft
+  default: true
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - type: textarea
   name: description
-  label: description
+  label: Description
   description: The description of the post. This is important as it will be pulled
     in by social networks when the post is shared.
   config:
     required: true
-- type: list
-  name: tags
-  label: tags
-  description: The tags can be used by users on the site to search for articles or
-    find related content.
-  config:
-    use_select: false
 - type: file
   name: image
   label: Featured Image
